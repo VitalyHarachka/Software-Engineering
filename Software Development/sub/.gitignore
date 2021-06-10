@@ -1,0 +1,3 @@
+*.o
+!primeFactorisation-BestStudent.o
+!primeFactorisation-Reference.o

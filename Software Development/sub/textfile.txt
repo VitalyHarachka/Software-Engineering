@@ -1,0 +1,36 @@
+commit 9be1bc55ed43b1c31611c709b79c0807591197f7
+Author: Vital Harachka <n0731739@my.ntu.ac.uk>
+Date:   Fri Dec 7 17:17:52 2018 +0000
+
+    added comments to the function
+
+commit 3a03523b3bc87b4109e075e79e02082d52d7faa1
+Author: Vital Harachka <n0731739@my.ntu.ac.uk>
+Date:   Fri Dec 7 13:55:56 2018 +0000
+
+    edited makefile, and .cpp file
+
+commit 7541a7cf7eb8e6d2d89af5df483af68dc7f4cd05
+Author: Vital Harachka <n0731739@my.ntu.ac.uk>
+Date:   Thu Dec 6 18:26:08 2018 +0000
+
+    Only adding this folder because when I try and add the whole file
+    whith the '.gitignore' file it wont let me.
+
+commit 5352dffb21a2ebb4cf8540a80d6804cf65c2809a
+Author: Vital Harachka <n0731739@my.ntu.ac.uk>
+Date:   Fri Nov 30 20:27:01 2018 +0000
+
+    edited makefile and wrote an algorithm for prime factorisation
+
+commit 781b8b510dfcd5d4f3ea2f4075b503e98fda52f5
+Author: Vital Harachka <n0731739@my.ntu.ac.uk>
+Date:   Thu Nov 29 13:53:58 2018 +0000
+
+    create primeFactorisation folder
+
+commit 0b7b941a7ca02eec9b2bc93f550b427736a2fa12
+Author: Vital Harachka <n0731739@my.ntu.ac.uk>
+Date:   Tue Nov 6 12:16:36 2018 +0000
+
+    'add'
